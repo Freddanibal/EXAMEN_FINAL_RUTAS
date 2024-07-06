@@ -28,6 +28,134 @@ var circle = L.circle([-17.988737677018996, -70.23812920617935], {
     fillOpacity: 0.1,
     radius: 5
 }).addTo(map);
+var circle = L.circle([-17.988957628635077, -70.24334417961407], {
+    color: '#060606',
+    fillColor: '#E8DF17',
+    fillOpacity: 0.1,
+    radius: 5
+}).addTo(map);
+
+L.control.scale().addTo(map);
+L.marker([-18.007411206331085, -70.24731827938717],
+   
+     {draggable: true}).addTo(map);
+var circle = L.circle([-17.988957628635077, -70.24334417961407], {
+    color: '#060606',
+    fillColor: '#E8DF17',
+    fillOpacity: 0.1,
+    radius: 5
+}).addTo(map);
+
+L.control.scale().addTo(map);
+L.marker([-18.00867322378339, -70.24880010347698],
+   
+     {draggable: true}).addTo(map);
+var circle = L.circle([-17.988957628635077, -70.24334417961407], {
+    color: '#060606',
+    fillColor: '#E8DF17',
+    fillOpacity: 0.1,
+    radius: 5
+}).addTo(map);
+
+L.control.scale().addTo(map);
+L.marker([-18.010642539297336, -70.25428320936282],
+   
+     {draggable: true}).addTo(map);
+var circle = L.circle([-17.988957628635077, -70.24334417961407], {
+    color: '#060606',
+    fillColor: '#E8DF17',
+    fillOpacity: 0.1,
+    radius: 5
+}).addTo(map);
+
+
+L.marker([-18.002647143714544, -70.26038526798752],
+   
+     {draggable: true}).addTo(map);
+var circle = L.circle([-17.988957628635077, -70.24334417961407], {
+    color: '#060606',
+    fillColor: '#E8DF17',
+    fillOpacity: 0.1,
+    radius: 5
+}).addTo(map);
+
+
+L.marker([-17.999664256377166, -70.2598905833483],
+   
+     {draggable: true}).addTo(map);
+var circle = L.circle([-17.988957628635077, -70.24334417961407], {
+    color: '#060606',
+    fillColor: '#E8DF17',
+    fillOpacity: 0.1,
+    radius: 5
+}).addTo(map);
+
+
+
+L.marker([-18.006270484480737, -70.24373468782989],
+   
+     {draggable: true}).addTo(map);
+var circle = L.circle([-17.988957628635077, -70.24334417961407], {
+    color: '#060606',
+    fillColor: '#E8DF17',
+    fillOpacity: 0.1,
+    radius: 5
+}).addTo(map);
+
+
+L.marker([-18.0054662924535, -70.24127845073531],
+   
+     {draggable: true}).addTo(map);
+var circle = L.circle([-17.988957628635077, -70.24334417961407], {
+    color: '#060606',
+    fillColor: '#E8DF17',
+    fillOpacity: 0.1,
+    radius: 5
+}).addTo(map);
+
+
+L.marker([-18.00263150069953, -70.23737679406425],
+   
+     {draggable: true}).addTo(map);
+var circle = L.circle([-17.988957628635077, -70.24334417961407], {
+    color: '#060606',
+    fillColor: '#E8DF17',
+    fillOpacity: 0.1,
+    radius: 5
+}).addTo(map);
+
+
+L.marker([-18.002597526757846, -70.237371674709],
+   
+     {draggable: true}).addTo(map);
+var circle = L.circle([-17.988957628635077, -70.24334417961407], {
+    color: '#060606',
+    fillColor: '#E8DF17',
+    fillOpacity: 0.1,
+    radius: 5
+}).addTo(map);
+
+
+L.marker([-18.000830011277788, -70.23489230242531],
+   
+     {draggable: true}).addTo(map);
+var circle = L.circle([-17.988957628635077, -70.24334417961407], {
+    color: '#060606',
+    fillColor: '#E8DF17',
+    fillOpacity: 0.1,
+    radius: 5
+}).addTo(map);
+
+
+L.marker([-17.998716014391384, -70.24483101028325],
+   
+     {draggable: true}).addTo(map);
+var circle = L.circle([-17.988957628635077, -70.24334417961407], {
+    color: '#060606',
+    fillColor: '#E8DF17',
+    fillOpacity: 0.1,
+    radius: 5
+}).addTo(map);
 
 var latlngs = [
     [-17.976446,-70.230704],
